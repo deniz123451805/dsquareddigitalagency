@@ -8,7 +8,7 @@
 </head>
 <body>
    <p> <img src="index.svg" alt="index"> </p>
-   <p> <img src="about us.svg" alt="about us"> </p>
+   <p> <img src="aboutus.svg" alt="about us"> </p>
    <p> <img src="services.svg" alt="services"> </p>
    <p> <img src="contact.svg" alt="contact"> </p>
 </body>
